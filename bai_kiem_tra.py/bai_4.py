@@ -9,4 +9,4 @@ else:
         break
       k = k-1
     else:
-      print("là số nguyên tố")
+      print("là số nguyên tố") 

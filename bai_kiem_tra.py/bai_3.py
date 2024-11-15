@@ -4,4 +4,4 @@ for i in range(50):
   print(a)
   sum_a_b = a + b
   a = b
-  b = sum_a_b
+  b = sum_a_b 

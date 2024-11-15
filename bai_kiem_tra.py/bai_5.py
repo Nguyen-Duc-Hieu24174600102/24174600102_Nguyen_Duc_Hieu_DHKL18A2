@@ -9,4 +9,4 @@ else:
     if tong== n:
         print(f"{n} là số hoàn hảo.")
     else:
-        print(f"{n} không phải là số hoàn hảo.")
+        print(f"{n} không phải là số hoàn hảo.") 

@@ -12,4 +12,4 @@ else:
     if is_perfect_square:
         print(f"{number} là số chính phương.")
     else:
-        print(f"{number} không phải là số chính phương.")
+        print(f"{number} không phải là số chính phương.") 
